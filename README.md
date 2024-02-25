@@ -1,2 +1,2 @@
 # Quantum-contribution
-Open sourced
+Open sourced multi-bridging platform
